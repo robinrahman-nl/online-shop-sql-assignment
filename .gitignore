@@ -1,0 +1,10 @@
+# Database files (generated)
+*.db
+data/
+
+# OS noise
+.DS_store
+
+# Editor / IDE
+.vscode/
+.idea/
