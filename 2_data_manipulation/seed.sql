@@ -95,6 +95,12 @@ VALUES (
         'maagzuurremmer',
         5.58,
         0
+    ),
+    (
+        'HomeoCalm',
+        'homeopathisch middel tegen stress',
+        28.75,
+        10
     );
 INSERT INTO bestellingen (klant_id, datum)
 VALUES 

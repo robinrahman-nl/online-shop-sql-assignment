@@ -44,6 +44,10 @@ CREATE TABLE IF NOT EXISTS bestellingendetails (
     FOREIGN KEY (product_id) REFERENCES producten (product_id)
 );
 
+-- Add extra column 'categorie' for table 'producten';
+ALTER TABLE producten
+ADD categorie varchar(255);
+
 
 
 
