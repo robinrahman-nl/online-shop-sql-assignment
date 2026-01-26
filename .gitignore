@@ -8,3 +8,4 @@ data/
 # Editor / IDE
 .vscode/
 .idea/sandbox.sql
+sandbox.sql
