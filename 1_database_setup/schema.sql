@@ -47,11 +47,3 @@ CREATE TABLE IF NOT EXISTS bestellingendetails (
 -- Add extra column 'categorie' for table 'producten';
 ALTER TABLE producten
 ADD categorie varchar(255) NOT NULL;
-
-
-
-
-
-
-
-
